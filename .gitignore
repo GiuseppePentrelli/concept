@@ -1,0 +1,10 @@
+node_modules
+dist
+.shots
+
+# materiale locale: skill degli agenti, mockup del cliente, originali generati
+.agents
+.claude
+skills-lock.json
+references
+assets-generated
