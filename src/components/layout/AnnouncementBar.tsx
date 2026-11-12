@@ -24,7 +24,7 @@ export function AnnouncementBar() {
 
   return (
     <div
-      className="relative z-30 border-b border-line bg-[#0b0b0b]"
+      className="promo-bar grain relative z-30"
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
       onFocus={() => setPaused(true)}
